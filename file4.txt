@@ -1,1 +1,2 @@
 first line in file4.txt 
+added a second line to this file from the remote repo
